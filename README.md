@@ -8,10 +8,18 @@ This simulation is built on HTML canvas using OOP principles in Javascript witho
 
 ## Demo
 
+
+
+Play with the code [here](https://stackblitz.com/edit/web-platform-wfmbmp?file=script.js)
+
+**Steps:**
+- Change the number of cars to 400 or 500 in script.js
+- Save the best path during the run so the next time mutation happens, it references that.
+- Change the mutation value between 0 and 1 and see the behaviour
+- Change the number of cars to 1 to see only the best path.
+
+
 https://github.com/servesh-chaturvedi/self-driving-car/assets/72094888/dbfb4484-9fd5-477b-897e-e810bdb0e7b9
-
-
-
 
 ## Acknowledgements
 
